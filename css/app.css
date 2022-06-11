@@ -12,6 +12,9 @@ html {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-weight: 100;
 }
+.nav-wrapper {
+  background-color: #950000;
+}
 .nav-wrapper a {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -47,6 +50,6 @@ p {
 }
 @media all and (display-mode: standalone) {
   body {
-    background-color: lightskyblue;
+    background-color: #efefef;
   }
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Awesom-O-3000",
-  "short_name": "Awesom-O",
+  "name": "Progressive Web Application",
+  "short_name": "PWA App",
   "icons": [
     {
       "src": "/icons/android-512-512.png",
@@ -34,8 +34,8 @@
     }
   ],
   "orientation": "portrait-primary",
-  "theme_color": "#bada55",
-  "background_color": "#eeeeee",
+  "theme_color": "#009579",
+  "background_color": "#efefef",
   "display": "standalone",
   "start_url": "."
 }
