@@ -5,10 +5,8 @@ Just a demo of the basic PWA service worker features
 <!-- https://www.pwabuilder.com -->
 <!-- https://www.pwabuilder.com/imageGenerator -->
 
-
-<!-- echo "# PWA-App" >> README.md -->
 <!-- git init -->
-<!-- git add README.md -->
+<!-- git add . -->
 <!-- git commit -m "first commit" -->
 <!-- git branch -M main -->
 <!-- git remote add origin https://github.com/sarbanandadev/PWA-App.git -->
@@ -18,3 +16,13 @@ Just a demo of the basic PWA service worker features
 <!-- git remote add origin https://github.com/sarbanandadev/PWA-App.git -->
 <!-- git branch -M main -->
 <!-- git push -u origin main -->
+
+<!-- git add . -->
+<!-- git remote add origin https://github.com/sarbanandadev/PWA-App.git -->
+<!-- git push https://github.com/sarbanandadev/PWA-App.git -->
+<!-- username: sarbanandadev -->
+<!-- password: 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 -->
+<!-- git pull https://github.com/sarbanandadev/PWA-App.git -->
+
+<!-- https://sarbanandadev.github.io/PWA-App/ -->
+
