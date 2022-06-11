@@ -8,7 +8,7 @@ Just a demo of the basic PWA service worker features
 <!-- git remote add origin https://github.com/sarbanandadev/PWA-App.git -->
 <!-- git push https://github.com/sarbanandadev/PWA-App.git -->
 <!-- username: sarbanandadev -->
-<!-- password: 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 -->
+<!-- password: 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 -->
 <!-- git pull https://github.com/sarbanandadev/PWA-App.git -->
 
 <!-- https://sarbanandadev.github.io/PWA-App/ -->
