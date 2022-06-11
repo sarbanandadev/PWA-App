@@ -28,7 +28,7 @@ const server = http.createServer((req, res) => {
         case "js/app.js":
           res.writeHead(200, { "Content-type": "application/javascript" });
           break;
-        case "/" || "index.html":
+        case "index.html":
           res.writeHead(200, { "Content-type": "text/html" });
           break;
         case "404.html":
